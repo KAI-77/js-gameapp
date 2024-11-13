@@ -119,7 +119,7 @@ document.addEventListener("DOMContentLoaded", () => {
   function checkWin(value) {
     if (value === 2048 && !is2048Exist) {
       is2048Exist = true;
-      setTimeout(() => alert("You win! You got the 2048 tile!"), 100);
+      setTimeout(() => alert("Wow! You got the 2048 tile!"), 100);
     } else if (value === 4096 && !is4096Exist) {
       is4096Exist = true;
       setTimeout(() => alert("You are awesome! You got the 4096 tile!"), 100);
