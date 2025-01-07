@@ -16,4 +16,5 @@ High score tracking and reset functionality.
 Smooth animations for tile movements and merges.
 
 Screenshots
+
 ![2048](https://github.com/user-attachments/assets/1b3c4278-02de-4d08-8bae-7aeb2a37e5d7)
